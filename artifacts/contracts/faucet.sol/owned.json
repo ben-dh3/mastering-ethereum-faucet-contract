@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "owned",
+  "sourceName": "contracts/faucet.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550603f80605d6000396000f3fe6080604052600080fdfea2646970667358221220e7e6c8144ebb1e8e666e589795903a66a8f7cd94079f319e402a6cc50dbb3d0864736f6c63430008040033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220e7e6c8144ebb1e8e666e589795903a66a8f7cd94079f319e402a6cc50dbb3d0864736f6c63430008040033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
